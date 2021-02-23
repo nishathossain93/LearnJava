@@ -23,6 +23,8 @@ public class PracticeScanner {
         System.out.println("What is your favorite color?");
         String color = scanner.nextLine();
         System.out.println("Your favorite color is " + color);
+
+
         scanner.close();
 
 
